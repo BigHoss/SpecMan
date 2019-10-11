@@ -20,9 +20,8 @@ The concrete problems with this way are the following:
 Manage the specifications in a dynamic fashion by using textblocks in a tree structure.
 
 === Needed Types of Nodes
-* <<_Textblock>>
-* <<_Header>>
-* 
+* <<_Textblock>>[Textblocks]
+* <<_Header>>[Headers]
 
 === Textblock
 When you add in a textblock you have to specify a header for it, when entering the heading all already available textblocks will be searched.
