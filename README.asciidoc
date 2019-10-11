@@ -31,6 +31,6 @@ The level of the heading is depending on the hierarchy of the document.
 Heading is just a textblock without text
 
 == Technical ideas
-* [ ] Text content is written in markdown
+* [ ] Text content is written in asciidoc
 * [ ] IDE Integration
 * [ ] Link Texblocks to Solutions
